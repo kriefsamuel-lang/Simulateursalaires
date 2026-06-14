@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/salarie/*"
-  to = "/salarie/index.html"
-  status = 200
