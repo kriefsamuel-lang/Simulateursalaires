@@ -9,6 +9,7 @@ export default {
       colors: {
         navy: '#1A2138',
         gold: '#C9A24B',
+        cream: '#F7F5F0',
       },
       fontFamily: {
         sans: ['Rubik', 'system-ui', 'sans-serif'],
